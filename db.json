@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Lorem Ipsum Dolor Sit Amet Dolor Sit Amet",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "image_url": "https://source.unsplash.com/collection/1346951/1000x500?sig=1",
+      "author": "David Grzyb",
+      "category": "Technology",
+      "publish_on": "April 25th, 2020"
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "image_url": "dfds",
+      "author": "David Grzybdf",
+      "category": "Automotive",
+      "publish_on": "April 11, 2023"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Technologys"
+    },
+    {
+      "id": 2,
+      "name": "Automotive"
+    },
+    {
+      "id": 3,
+      "name": "Finance"
+    },
+    {
+      "id": 4,
+      "name": "Politics"
+    },
+    {
+      "id": 5,
+      "name": "sfsdasdaf"
+    },
+    {
+      "id": 6,
+      "name": "Sports"
+    },
+    {
+      "id": 7,
+      "name": "New category"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "David Grzybdf"
+    },
+    {
+      "id": 2,
+      "name": "David Thomas"
+    },
+    {
+      "id": 3,
+      "name": "Author 1"
+    },
+    {
+      "id": 4,
+      "name": "Details.wes"
+    }
+  ]
+}
